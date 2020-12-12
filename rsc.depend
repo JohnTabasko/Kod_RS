@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607628066 source:c:\roboczy\rsc\main.c
+	<math.h>
+	<stdio.h>
+
